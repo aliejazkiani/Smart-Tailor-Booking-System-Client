@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.font-urdu {
+  font-family: "Noto Nastaliq Urdu", "Jameel Noori Nastaleeq", serif;
+  line-height: 1.8;
+}
